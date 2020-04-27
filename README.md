@@ -3,11 +3,11 @@
 ## Setup
 
 1. Clone this repo and cd into the root folder.
-2. run 
+2. Install
   ```bash
   yarn install
   ```
-3. start
+3. Start
   ```bash
     yarn start
   ```
